@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 780.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 45
+  controlID: 89
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 46
+  controlID: 55
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 47
+  controlID: 56
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -316,22 +316,23 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\\u041A\u0435\u0444\u0442\u0435\u043C\u0435\\My project"
+  m_LastProjectPath: "C:\\Users\\\u041A\u0435\u0444\u0442\u0435\u043C\u0435\\Documents\\GitHub\\Floor-is-a-lava\\My
+    project"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 82580000
-    m_LastClickedID: 22658
+    m_SelectedIDs: a6580000
+    m_LastClickedID: 22694
     m_ExpandedIDs: 000000008258000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -490,9 +491,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d6570000
-      m_LastClickedID: 22486
-      m_ExpandedIDs: 3afbffff
+      m_SelectedIDs: d0f9ffff
+      m_LastClickedID: -1584
+      m_ExpandedIDs: 3afbffffc2570000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -775,9 +776,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 59.626526, y: 20.56749, z: -15.616686}
+    m_Target: {x: -91.62438, y: -17.527935, z: 19.979443}
     speed: 2
-    m_Value: {x: 59.627323, y: 20.56763, z: -15.616765}
+    m_Value: {x: -91.62438, y: -17.527935, z: 19.979443}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -824,26 +825,26 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.15061098, y: 0.6027822, z: -0.11717701, w: -0.77476573}
+    m_Target: {x: -0.09415483, y: 0.60313594, z: -0.07198936, w: -0.788802}
     speed: 2
-    m_Value: {x: -0.15046857, y: 0.60370475, z: -0.11735634, w: -0.7740331}
+    m_Value: {x: -0.09415346, y: 0.6031272, z: -0.07198831, w: -0.7887906}
   m_Size:
-    m_Target: 0.00053178106
+    m_Target: 28.041119
     speed: 2
-    m_Value: 0.00063178106
+    m_Value: 28.041119
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 1.03
+    m_SpeedNormalized: 0.51475734
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
     m_EasingDuration: 0.4
     m_AccelerationEnabled: 1
-    m_FieldOfViewHorizontalOrVertical: 60
+    m_FieldOfViewHorizontalOrVertical: 24
     m_NearClip: 0.03
     m_FarClip: 10000
     m_DynamicClip: 1
